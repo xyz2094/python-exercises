@@ -6,8 +6,7 @@ easy to understand.
 
 All scripts are standalone and can be run directly from your terminal.
 
-1.  **Navigate** to the root directory of the project.
-2.  **Execute** any script using the `python` command, followed by its path.
+How to run:
 
 ```bash
 # General command format
