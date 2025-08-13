@@ -10,7 +10,7 @@ How to run:
 
 ```bash
 # General command format
-> py <folder_name>/<file_name>.py
+> py <folder_name>/<file_name>
 
 # Example
 > py Inheritance/simple_inheritance.py
