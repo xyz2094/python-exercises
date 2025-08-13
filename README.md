@@ -1,7 +1,9 @@
 ### Python OOP Exercises
 
 This repository contains a collection of Python scripts demonstrating core Object-Oriented 
-Programming (OOP) concepts. Each file is a self-contained example designed to be clear and
+Programming (OOP) concepts.
+
+Each file is a self-contained example designed to be clear and
 easy to understand.
 
 All scripts are standalone and can be run directly from your terminal.
