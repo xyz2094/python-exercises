@@ -11,7 +11,7 @@ All scripts are standalone and can be run directly from your terminal.
 
 ```bash
 # General command format
-python <folder_name>/<file_name>.py
+> py <folder_name>/<file_name>.py
 
 # Example
-python 2-Inheritance/simple_inheritance.py
+> py Inheritance/simple_inheritance.py
